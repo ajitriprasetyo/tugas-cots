@@ -50,9 +50,9 @@
 
 ## 📖 Deskripsi Aplikasi
 
-Aplikasi **Arvan Hiking** merupakan sistem informasi berbasis web untuk mengelola stok peralatan outdoor dan pendakian. Aplikasi ini sudah menerapkan konsep CRUD (Create, Read, Update, Delete) menggunakan Node.js dan Express.js di sisi backend.
+Aplikasi **Aji iPhone** merupakan sistem informasi berbasis web untuk mengelola stok inventaris produk Apple seperti iPhone, iPad, dan aksesoris lainnya. Aplikasi ini sudah menerapkan konsep CRUD (Create, Read, Update, Delete) menggunakan Node.js dan Express.js di sisi backend.
 
-Frontend dibangun menggunakan HTML, Bootstrap, dan jQuery, sedangkan backend menggunakan Node.js dengan framework Express.js. Data disimpan sementara dalam memori server (_in-memory storage_) dan dikirim dalam format JSON.
+Frontend dibangun menggunakan HTML, Bootstrap dengan kustomisasi antarmuka bergaya Apple (Glassmorphism), dan jQuery, sedangkan backend menggunakan Node.js dengan framework Express.js. Data disimpan sementara dalam memori server (_in-memory storage_) dan dikirim dalam format JSON.
 
 ---
 
@@ -71,19 +71,18 @@ Frontend dibangun menggunakan HTML, Bootstrap, dan jQuery, sedangkan backend men
 **DataTables** adalah plugin jQuery yang digunakan untuk membuat tabel interaktif dengan fitur search, sorting, dan pagination.
 
 **JSON** digunakan sebagai format pertukaran data antara client dan server.
-
 ---
 
 ## 2. Deskripsi Aplikasi
 
-Aplikasi **Arvan Hiking** merupakan sistem manajemen data part komputer berbasis web yang dibangun menggunakan Node.js dan Express.
+Aplikasi **Aji iPhone** merupakan sistem manajemen data produk berbasis web yang dibangun menggunakan Node.js dan Express.
 
 Fitur utama:
 
-- Menampilkan data part komputer
-- Menambahkan data baru
-- Mengedit data
-- Menghapus data
+- Menampilkan daftar produk (iPhone Baru, iPhone Bekas, iPad, Aksesoris, dll.)
+- Menambahkan data produk baru
+- Mengedit data produk
+- Menghapus data produk
 - Tabel interaktif dengan DataTables
 - Data berbasis JSON (tanpa database)
 
@@ -92,7 +91,7 @@ Fitur utama:
 ## 3. Struktur Folder Project
 
 ```bash
-tugas-cots-2311102074/
+tugas-cots-2311102064/
 ├── server.js
 ├── package.json
 ├── public/
@@ -857,7 +856,7 @@ User hapus data → request DELETE ke server
 
 ## 8. Kesimpulan
 
-Aplikasi ini berhasil mengimplementasikan konsep CRUD berbasis REST API menggunakan Node.js dan Express. Integrasi dengan Bootstrap dan DataTables membuat tampilan menjadi interaktif dan responsif.
+Aplikasi Aji iPhone ini berhasil mengimplementasikan konsep CRUD berbasis REST API menggunakan Node.js dan Express. Integrasi dengan Bootstrap dan DataTables membuat tampilan antarmuka (UI) menjadi elegan, interaktif, dan terorganisir sesuai dengan tema produk Apple yang diusung.
 
 ---
 
