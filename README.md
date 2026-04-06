@@ -875,4 +875,4 @@ https://drive.google.com/file/d/1OIxPjusirvCTgM5Eh26zMjtZJNY6iRyo/view?usp=shari
 
 ## 11. Link PPT
 
-https://canva.link/9aogpfmpwmsbw9q
+https://canva.link/uxhdzw1nfvtl0p7
