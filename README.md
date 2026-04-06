@@ -871,7 +871,7 @@ Aplikasi Aji iPhone ini berhasil mengimplementasikan konsep CRUD berbasis REST A
 
 ## 10. Link Video Presentasi
 
-https://drive.google.com/file/d/1OIxPjusirvCTgM5Eh26zMjtZJNY6iRyo/view?usp=sharing
+https://drive.google.com/file/d/1I4gaMmZFLhbfJGr-KJRiou-paAQXoWjv/view?usp=sharing
 
 ## 11. Link PPT
 
