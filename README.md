@@ -8,7 +8,7 @@
   <br />
 
   <h3>TUGAS COTS-1<br>
-  Arvan Hiking - Sistem Manajemen Peralatan Outdoor
+  Aji iPhone - Sistem Manajemen Produk
   </h3>
 
   <br />
